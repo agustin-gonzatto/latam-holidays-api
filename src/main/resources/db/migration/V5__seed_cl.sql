@@ -1,0 +1,17 @@
+INSERT INTO holidays (country_code, date, name_es, name_en, type, is_banking) VALUES
+('cl', '2025-01-01', 'Año Nuevo',                       'New Year''s Day',       'NATIONAL', true),
+('cl', '2025-04-18', 'Viernes Santo',                   'Good Friday',           'NATIONAL', true),
+('cl', '2025-04-19', 'Sábado Santo',                    'Holy Saturday',         'NATIONAL', true),
+('cl', '2025-05-01', 'Día del Trabajo',                 'Labor Day',             'NATIONAL', true),
+('cl', '2025-05-21', 'Día de las Glorias Navales',      'Navy Day',              'NATIONAL', true),
+('cl', '2025-06-20', 'Día de los Pueblos Indígenas',    'Indigenous Peoples Day','NATIONAL', true),
+('cl', '2025-06-29', 'San Pedro y San Pablo',           'Saints Peter and Paul', 'NATIONAL', true),
+('cl', '2025-07-16', 'Virgen del Carmen',               'Our Lady of Carmen',    'NATIONAL', true),
+('cl', '2025-08-15', 'Asunción de la Virgen',           'Assumption of Mary',    'NATIONAL', true),
+('cl', '2025-09-18', 'Día de la Independencia',         'Independence Day',      'NATIONAL', true),
+('cl', '2025-09-19', 'Día de las Glorias del Ejército', 'Army Day',              'NATIONAL', true),
+('cl', '2025-10-12', 'Día del Encuentro de Dos Mundos', 'Columbus Day',          'NATIONAL', true),
+('cl', '2025-10-31', 'Día de las Iglesias Evangélicas', 'Reformation Day',       'NATIONAL', true),
+('cl', '2025-11-01', 'Día de Todos los Santos',         'All Saints Day',        'NATIONAL', true),
+('cl', '2025-12-08', 'Inmaculada Concepción',           'Immaculate Conception', 'NATIONAL', true),
+('cl', '2025-12-25', 'Navidad',                         'Christmas Day',         'NATIONAL', true);

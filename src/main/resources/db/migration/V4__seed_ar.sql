@@ -1,0 +1,16 @@
+INSERT INTO holidays (country_code, date, name_es, name_en, type, is_banking) VALUES
+('ar', '2025-01-01', 'Año Nuevo',                       'New Year''s Day',       'NATIONAL', true),
+('ar', '2025-03-03', 'Carnaval',                        'Carnival',              'NATIONAL', false),
+('ar', '2025-03-04', 'Carnaval',                        'Carnival',              'NATIONAL', false),
+('ar', '2025-03-24', 'Día de la Memoria',               'Memory Day',            'NATIONAL', true),
+('ar', '2025-04-02', 'Día del Veterano de Malvinas',    'Malvinas Veterans Day', 'NATIONAL', true),
+('ar', '2025-04-18', 'Viernes Santo',                   'Good Friday',           'NATIONAL', true),
+('ar', '2025-05-01', 'Día del Trabajo',                 'Labor Day',             'NATIONAL', true),
+('ar', '2025-05-25', 'Día de la Patria',                'National Day',          'NATIONAL', true),
+('ar', '2025-06-20', 'Paso a la Inmortalidad de Belgrano', 'Belgrano Day',       'NATIONAL', true),
+('ar', '2025-07-09', 'Día de la Independencia',         'Independence Day',      'NATIONAL', true),
+('ar', '2025-08-18', 'Paso a la Inmortalidad de San Martín', 'San Martín Day',   'NATIONAL', true),
+('ar', '2025-10-12', 'Día del Respeto a la Diversidad', 'Diversity Day',         'NATIONAL', true),
+('ar', '2025-11-20', 'Día de la Soberanía Nacional',    'National Sovereignty',  'NATIONAL', true),
+('ar', '2025-12-08', 'Inmaculada Concepción',           'Immaculate Conception', 'NATIONAL', true),
+('ar', '2025-12-25', 'Navidad',                         'Christmas Day',         'NATIONAL', true);

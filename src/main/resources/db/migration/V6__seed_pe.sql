@@ -1,0 +1,15 @@
+INSERT INTO holidays (country_code, date, name_es, name_en, type, is_banking) VALUES
+('pe', '2025-01-01', 'Año Nuevo',                       'New Year''s Day',       'NATIONAL', true),
+('pe', '2025-04-17', 'Jueves Santo',                    'Holy Thursday',         'NATIONAL', true),
+('pe', '2025-04-18', 'Viernes Santo',                   'Good Friday',           'NATIONAL', true),
+('pe', '2025-05-01', 'Día del Trabajo',                 'Labor Day',             'NATIONAL', true),
+('pe', '2025-06-07', 'Batalla de Arica',                'Battle of Arica',       'NATIONAL', true),
+('pe', '2025-06-29', 'San Pedro y San Pablo',           'Saints Peter and Paul', 'NATIONAL', true),
+('pe', '2025-07-28', 'Día de la Independencia',         'Independence Day',      'NATIONAL', true),
+('pe', '2025-07-29', 'Día de la Gran Parada Militar',   'Grand Military Parade', 'NATIONAL', true),
+('pe', '2025-08-30', 'Santa Rosa de Lima',              'Saint Rose of Lima',    'NATIONAL', true),
+('pe', '2025-10-08', 'Combate de Angamos',              'Battle of Angamos',     'NATIONAL', true),
+('pe', '2025-11-01', 'Día de Todos los Santos',         'All Saints Day',        'NATIONAL', true),
+('pe', '2025-12-08', 'Inmaculada Concepción',           'Immaculate Conception', 'NATIONAL', true),
+('pe', '2025-12-09', 'Batalla de Ayacucho',             'Battle of Ayacucho',    'NATIONAL', true),
+('pe', '2025-12-25', 'Navidad',                         'Christmas Day',         'NATIONAL', true);
